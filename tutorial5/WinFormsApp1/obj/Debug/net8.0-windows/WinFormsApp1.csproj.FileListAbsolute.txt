@@ -1,0 +1,16 @@
+D:\.NET\tutorial5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\.NET\tutorial5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\.NET\tutorial5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\.NET\tutorial5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\.NET\tutorial5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\.NET\tutorial5\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,14 @@
+D:\.NET\tutorial3\bin\Debug\net8.0\tutorial3.exe
+D:\.NET\tutorial3\bin\Debug\net8.0\tutorial3.deps.json
+D:\.NET\tutorial3\bin\Debug\net8.0\tutorial3.runtimeconfig.json
+D:\.NET\tutorial3\bin\Debug\net8.0\tutorial3.dll
+D:\.NET\tutorial3\bin\Debug\net8.0\tutorial3.pdb
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.AssemblyInfoInputs.cache
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.AssemblyInfo.cs
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.csproj.CoreCompileInputs.cache
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.dll
+D:\.NET\tutorial3\obj\Debug\net8.0\refint\tutorial3.dll
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.pdb
+D:\.NET\tutorial3\obj\Debug\net8.0\tutorial3.genruntimeconfig.cache
+D:\.NET\tutorial3\obj\Debug\net8.0\ref\tutorial3.dll
